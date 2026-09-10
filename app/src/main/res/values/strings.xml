@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">S펜 핫키</string>
+    <string name="accessibility_service_description">S펜 사이드 버튼의 한 번 클릭, 두 번 클릭, 길게 누르기 동작을 감지해서 지정한 동작(우클릭, 복사/붙여넣기, 뒤로가기, 앱 실행 등)을 실행합니다.</string>
+</resources>
